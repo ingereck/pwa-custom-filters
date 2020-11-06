@@ -2,7 +2,7 @@
 /*
 Plugin Name: PWA Custom Filters
 Description: Filters for the official PWA Plugin https://wordpress.org/plugins/pwa/
-Plugin URI:  
+Plugin URI:  https://github.com/ingereck/pwa-custom-filters
 Author:      Inge Reck
 Version:     0.0.1
 */
